@@ -58,6 +58,8 @@ python search/run_demo.py --query "wireless earbuds"
 
 # 4. Generate a literature review on demand
 python deep-research-hybrid/main.py "LLM-based ranking evaluation"
+```
+
 
 ## Contributing 
 
