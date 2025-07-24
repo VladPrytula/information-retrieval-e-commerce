@@ -50,14 +50,7 @@ information-retrieval-e-commerce/
 git clone --recursive https://github.com/VladPrytula/information-retrieval-e-commerce.git
 cd information-retrieval-e-commerce
 
-# 2. Spin up a dev env
-make install   # or: pip install -r requirements.txt
-
-# 3. Run a toy search pipeline
-python search/run_demo.py --query "wireless earbuds"
-
-# 4. Generate a literature review on demand
-python deep-research-hybrid/main.py "LLM-based ranking evaluation"
+read :)
 ```
 
 
