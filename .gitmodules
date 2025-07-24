@@ -1,0 +1,6 @@
+[submodule "recommendations"]
+	path = recommendations
+	url = https://github.com/VladPrytula/notes2blog.git
+[submodule "search"]
+	path = search
+	url = https://github.com/VladPrytula/DeepResearchHybrid.git
