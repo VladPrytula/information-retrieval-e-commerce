@@ -26,6 +26,7 @@ This project stitches them together in one place, backed by real notebooks, test
 ---
 
 ## Repo layout
+```
 information-retrieval-e-commerce/
 ├─ search/                # Vector & hybrid search pipelines (BM25 → RAG)
 ├─ recommendations/       # Baseline → bandits → neural CTR models
@@ -33,13 +34,14 @@ information-retrieval-e-commerce/
 │   └─ documentation/     # LaTeX chapters for the agent paper
 ├─ notes2blog/            # Submodule – book chapters + Jupyter notebooks
 └─ docs/                  # Compiled book manuscript (coming soon)
-
+```
 ### Sub-modules at a glance
 
 | Sub-repo | Elevator pitch |
 |----------|----------------|
-| [`DeepResearchHybrid`](https://github.com/VladPrytula/DeepResearchHybrid) | AI agent that loops through *Plan → Search → Analyze → Synthesize* to produce fully-cited research reports—complete with PCA + K-Means topic discovery and HyDE query expansion. |
+| [`DeepResearchHybrid`](https://github.com/VladPrytula/DeepResearchHybrid) | AI agent that loops through *Plan → Search → Analyze → Synthesize* to produce fully-cited research reports—complete with **embedding-based topic discovery** (semantic clustering + auto-labeling) and HyDE query expansion. |
 | [`notes2blog`](https://github.com/VladPrytula/notes2blog) | Notebook-first “book” that starts with an embedding-MLP baseline, marches through contextual bandits, and lands in neural UCB—each chapter equal parts intuition, maths, and PyTorch code. |
+
 
 ---
 
