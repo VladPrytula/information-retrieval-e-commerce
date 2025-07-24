@@ -1,6 +1,6 @@
-[submodule "recommendations"]
-	path = recommendations
-	url = https://github.com/VladPrytula/notes2blog.git
+[submodule "ecom-ir-book"]
+	path = ecom-ir-book
+	url = git@github.com:VladPrytula/ecom-ir-book.git
 [submodule "search"]
 	path = search
 	url = https://github.com/VladPrytula/DeepResearchHybrid.git
