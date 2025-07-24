@@ -59,4 +59,4 @@ read :)
 ## Contributing 
 
 Issues and PRs are welcome—especially examples, benchmarks, or corrections to the book chapters.
-Please read CONTRIBUTING.md (coming soon) before opening your first pull request.
+Please read CONTRIBUTING.md before opening your first pull request.
