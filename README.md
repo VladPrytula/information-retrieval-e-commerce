@@ -32,8 +32,10 @@ information-retrieval-e-commerce/
 ├─ recommendations/       # Baseline → bandits → neural CTR models
 ├─ deep-research-hybrid/  # Submodule – autonomous research agent
 │   └─ documentation/     # LaTeX chapters for the agent paper
-├─ ecom-ir-book/            # Submodule – book chapters + Jupyter notebooks
-│   └─ docs/                  # Compiled book manuscript (coming soon)
+├─ ecom-ir-book/          # Submodule – book chapters + Jupyter notebooks
+│   └─ docs/              # Compiled book manuscript (coming soon)
+├─ bandits/               # Submodule – book chapters on bandits optimization for search + Jupyter notebooks
+│   └─ Bandits_Book/      # Draft manuscript plus notebooks
 ```
 ### Sub-modules at a glance
 
