@@ -4,3 +4,7 @@
 [submodule "search"]
 	path = search
 	url = https://github.com/VladPrytula/DeepResearchHybrid.git
+[submodule "bandits/Bandits_Book"]
+	path = bandits/Bandits_Book
+	url = https://github.com/VladPrytula/Bandits_Book.git
+	branch = main
